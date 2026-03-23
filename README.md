@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://flexiuni.com/images/logo.png" alt="ControlEDU" width="200" />
+  <img width="1200" height="600" alt="ControlEDU" src="https://github.com/user-attachments/assets/7819d940-fb89-4135-a643-bb1046719b6a" />
 </p>
 
 <h1 align="center">ControlEDU</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://flexiuni.com" target="_blank">
+  <a href="https://controledu.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Demo%20Live-flexiuni.com-blue?style=for-the-badge" alt="Demo Live" />
   </a>
   &nbsp;
@@ -33,7 +33,7 @@ Construído com **Laravel 12+**, **FilamentPHP v5** e **Livewire 3**, oferece um
 
 ## Demo
 
-> **Acesse agora:** [https://flexiuni.com](https://flexiuni.com)
+> **Acesse agora:** [https://controledu.com.br](https://controledu.com.br)
 
 ### Credenciais de Teste
 
@@ -43,7 +43,7 @@ Construído com **Laravel 12+**, **FilamentPHP v5** e **Livewire 3**, oferece um
 | **Aluno** | `aluno@flexiuni.com` | `demo1234` |
 | **Professor** | `professor@flexiuni.com` | `demo1234` |
 
-> **Acesso ao painel admin:** [https://flexiuni.com/admin](https://flexiuni.com/admin)
+> **Acesso ao painel admin:** [https://controledu.com.br/admin](https://controledu.com.br/admin)
 
 ### O que testar
 
